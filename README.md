@@ -89,12 +89,12 @@
 ---
 
 ### 📊 Estadísticas de GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hectordavidherrera1103-alt&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectordavidherrera1103-alt&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
+
 
 ---
 
