@@ -88,16 +88,15 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub y WakaTime
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hectordavidherrera1103-alt&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectordavidherrera1103-alt&layout=compact&theme=dark" alt="lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectordavidherrera1103-alt&layout=compact&theme=dark" alt="Lenguajes más usados" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=2202081d-a7e2-484b-9f59-dc0843c3858e&theme=dark" alt="Estadísticas de WakaTime" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=2202081d-a7e2-484b-9f59-dc0843c3858a&theme=dark" alt="Estadísticas de WakaTime" />
 </p>
-
 
 ---
 
