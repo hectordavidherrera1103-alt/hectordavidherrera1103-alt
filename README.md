@@ -19,12 +19,6 @@
   - **Español:** Nativo.
   - **Inglés:** Técnico / Lectura de documentación (Fundamental para demostrar que leo docs de desarrollo sin problemas).
 
----
-
-### 🌐 Idiomas
-
-- 🇪🇸 *Español:* Nativo
-- 🇺🇸 *Inglés:* Técnico (Lectura fluida de documentación, arquitectura y código)
 
 ---
 ### 🎓 Formación y Certificaciones
