@@ -68,17 +68,12 @@ Actualmente opero de manera autónoma, asumiendo la responsabilidad integral del
 - 🎳 **Ecosistema Web para Boliche:** Plataforma con reservas en tiempo real y monedero virtual para arcade en la nube.
 
 ---
-### 📊 Estadísticas de Desarrollo
-
-
-### 📊 Estadísticas de Desarrollo
-
+---
 ### 📊 Estadísticas de Desarrollo
 
 <p align="center">
   <img src="https://github-readme-stats-blush-nine-22.vercel.app/api?username=hectordavidherrera1103-alt&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
 </p>
-
 <p align="center">
   <a href="https://wakatime.com/@hectordavidherrera1103-alt">
     <img src="https://wakatime.com/badge/user/2202081d-a7e2-484b-9f59-dc0843c3858e.svg" alt="Total time coded since joining" />
