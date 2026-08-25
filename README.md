@@ -73,11 +73,11 @@ Actualmente opero de manera autónoma, asumiendo la responsabilidad integral del
 
 <p align="center">
   <img src="https://github-readme-stats-blush-nine-22.vercel.app/api?username=hectordavidherrera1103-alt&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-blush-nine-22.vercel.app/api/top-langs/?username=hectordavidherrera1103-alt&layout=compact&theme=dark" alt="Top Lenguajes" />
 </p>
+
 <p align="center">
-  <a href="https://wakatime.com/@hectordavidherrera1103-alt">
-    <img src="https://wakatime.com/badge/user/2202081d-a7e2-484b-9f59-dc0843c3858e.svg" alt="Total time coded since joining" />
-  </a>
+  <img src="https://wakatime.com/share/@2202081d-a7e2-484b-9f59-dc0843c3858e/76f991e5-00b1-48ab-96ae-a42293ee4c15.svg" alt="Actividad de Código WakaTime" />
 </p>
 ---
 
