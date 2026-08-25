@@ -68,7 +68,6 @@ Actualmente opero de manera autónoma, asumiendo la responsabilidad integral del
 - 🎳 **Ecosistema Web para Boliche:** Plataforma con reservas en tiempo real y monedero virtual para arcade en la nube.
 
 ---
----
 ### 📊 Estadísticas de Desarrollo
 
 <p align="center">
