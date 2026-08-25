@@ -80,7 +80,7 @@ Actualmente opero de manera autónoma, asumiendo la responsabilidad integral del
     <img src="https://wakatime.com/badge/user/2202081d-a7e2-484b-9f59-dc0843c3858e.svg" alt="Tiempo programando en WakaTime" />
   </a>
 </p>
----
+
 
 ### 📬 ¿Dónde encontrarme?
 
